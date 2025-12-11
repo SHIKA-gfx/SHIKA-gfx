@@ -50,24 +50,19 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIKAph&theme=radical&hide_border=true" alt="SHIKAph's Streak" />
+  <img src="https://streak-stats.demolab.com?user=SHIKAph&theme=radical&hide_border=true" alt="SHIKAph's Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIKAph&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="SHIKAph's Github Stats" height="180" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIKAph&layout=compact&theme=radical&langs_count=6&hide=html,css" alt="Top Langs" height="180" />
-  </a>
+  <img src="https://metrics.lecoq.io/SHIKAph?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FSeoul" alt="Metrics" width="35%">
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/SHIKAph">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHIKAph&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits"/>
+    <img src="https://hits.sh/github.com/SHIKAph.svg?view=today-total&label=Visitors&color=79C83D&labelColor=555555" height="25" alt="Hits"/>
   </a>
 </div>
