@@ -50,13 +50,7 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SHIKAph&theme=radical&hide_border=true" alt="SHIKAph's Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/SHIKAph?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FSeoul" alt="Metrics" width="35%">
+  <img src="https://metrics.lecoq.io/SHIKAph?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FSeoul" alt="Metrics" width="60%">
 </div>
 
 <br>
