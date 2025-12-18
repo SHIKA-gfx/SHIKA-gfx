@@ -25,7 +25,7 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
 
 ### 🏆 Featured Projects
 
-#### 1. [Shika's OpenGL Renderer](https://github.com/SHIKAph/Shika-s-OpenGLRenderer)
+#### 1. [Shika's OpenGL Renderer](https://github.com/SHIKA-gfx/Shika-s-OpenGLRenderer)
 > **Custom Rendering Engine based on OpenGL**
 > OpenGLを用いた自作レンダリングエンジン
 
@@ -35,7 +35,7 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
     * Model loading using Assimp & Scene management.
 * **Tech:** C++, OpenGL, GLFW, GLAD, GLM.
 
-#### 2. ShikaMath (In Progress)
+#### 2. [ShikaMath](https://github.com/SHIKA-gfx/ShikaMath) (In Progress)
 > **High-Performance Math Library for Graphics**
 > グラフィックスエンジンのための自作C++数学ライブラリ
 
