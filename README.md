@@ -2,6 +2,27 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SHIKA%20GRAPHICS%20&fontSize=50" width="100%"/>
 </div>
 
+<div align="center">
+  <a href="https://shikagraphics.notion.site/SHIKA-Graphics-2cdbdd7a869d80deae21dddb3e926c9c">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/>
+  </a>
+  <a href="https://lapras.com/public/shika-gfx">
+    <img src="https://img.shields.io/badge/LAPRAS-Score-082859?style=for-the-badge&logo=lapras&logoColor=white" alt="LAPRAS"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://qiita.com/SHIKA-gfx">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"/>
+  </a>
+  <a href="https://zenn.dev/shika_gfx">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
+  </a>
+  <a href="https://x.com/shika_gfx">
+    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</div>
+
 ### 👋 Hello World! / こんにちは!
 
 **Aspiring Graphics Engineer** based in South Korea.  
