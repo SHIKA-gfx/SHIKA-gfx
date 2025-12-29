@@ -71,13 +71,13 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/SHIKAph?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FSeoul" alt="Metrics" width="60%">
+  <img src="https://metrics.lecoq.io/SHIKA-gfx?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FSeoul" alt="Metrics" width="60%">
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/SHIKAph">
-    <img src="https://hits.sh/github.com/SHIKAph.svg?view=today-total&label=Visitors&color=79C83D&labelColor=555555" height="25" alt="Hits"/>
+  <a href="https://github.com/SHIKA-gfx">
+    <img src="https://hits.sh/github.com/SHIKA-gfx.svg?view=today-total&label=Visitors&color=79C83D&labelColor=555555" height="25" alt="Hits"/>
   </a>
 </div>
