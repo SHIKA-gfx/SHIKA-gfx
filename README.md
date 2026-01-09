@@ -28,9 +28,9 @@
 **Aspiring Graphics Engineer** based in South Korea.  
 **グラフィックスエンジニア**を目指して勉強中の学生です。
 
-I have built a renderer using **OpenGL** and am currently developing a custom math library from scratch to master the low-level foundations of graphics engine. My next goal is to master **DirectX 12**.
+I have built a renderer using **OpenGL** and am currently developing a custom math library from scratch to master the low-level foundations of graphics engine. My next goal is to master **Vulkan**.
 
-グラフィックパイプラインを学びながら**OpenGL**でのレンダラー開発を完了し、現在はグラフィックスエンジンの基礎となる数学ライブラリを自作しています。次の目標は**DirectX 12**の習得です。
+グラフィックパイプラインを学びながら**OpenGL**でのレンダラー開発を完了し、現在はグラフィックスエンジンの基礎となる数学ライブラリを自作しています。次の目標は**Vulkan**の習得です。
 
 ---
 
@@ -39,7 +39,7 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
 | Category | Technologies |
 | --- | --- |
 | **Languages** | ![C++](https://img.shields.io/badge/C++17/20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white) |
-| **Graphics API** | ![OpenGL](https://img.shields.io/badge/OpenGL-Completed-success?style=flat-square&logo=opengl) ![DirectX12](https://img.shields.io/badge/DirectX_12-Next_Goal-lightgrey?style=flat-square) |
+| **Graphics API** | ![OpenGL](https://img.shields.io/badge/OpenGL-Completed-success?style=flat-square&logo=opengl) ![Vulkan](https://img.shields.io/badge/Vulkan-Next_Goal-lightgrey?style=flat-square&logo=vulkan&logoColor=white)
 | **Tools & Libs** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Assimp](https://img.shields.io/badge/Assimp-Model_Loading-orange?style=flat-square) |
 
 ---
