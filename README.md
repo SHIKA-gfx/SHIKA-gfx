@@ -66,6 +66,25 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
     * Optimization using **SIMD Intrinsics (AVX/SSE)**.
     * Memory alignment and Cache efficiency.
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/SHIKA-gfx/ShikaMath/main/assets/ShikaMath_Triangle.png" width="100%">
+      <br>
+      <sub><b>Pipeline Base</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/SHIKA-gfx/ShikaMath/main/assets/zbuffer_test.png" width="100%">
+      <br>
+      <sub><b>Z-Buffer Logic</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/SHIKA-gfx/ShikaMath/main/assets/lastcube.png" width="100%">
+      <br>
+      <sub><b>3D & Quaternion</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 📊 GitHub Analytics
