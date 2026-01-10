@@ -56,7 +56,7 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
     * Model loading using Assimp & Scene management.
 * **Tech:** C++, OpenGL, GLFW, GLAD, GLM.
 
-#### 2. [ShikaMath](https://github.com/SHIKA-gfx/ShikaMath) (In Progress)
+#### 2. [ShikaMath](https://github.com/SHIKA-gfx/ShikaMath) 
 > **High-Performance Math Library for Graphics**
 > グラフィックスエンジンのための自作C++数学ライブラリ
 
