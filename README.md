@@ -90,7 +90,7 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/SHIKA-gfx?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FSeoul" alt="Metrics" width="60%">
+  <img src="github-metrics.svg" alt="Metrics" width="60%">
 </div>
 
 <br>
