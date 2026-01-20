@@ -23,3 +23,6 @@ jobs:
           config_timezone: Asia/Seoul
           
           filename: github-metrics.svg
+
+          committer_branch: metrics
+          committer_message: "chore: update metrics [skip ci]"
