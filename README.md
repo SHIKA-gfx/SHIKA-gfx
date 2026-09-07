@@ -25,12 +25,17 @@
 
 ### 👋 Hello World! / こんにちは!
 
-**Aspiring Graphics Engineer** based in South Korea.  
-**グラフィックスエンジニア**を目指して勉強中の学生です。
+**Student in South Korea**, aiming to work in Japan.  
+**日本での就職**を目指している韓国の大学生です。
 
-I have built a renderer using **OpenGL** and am currently developing a custom math library from scratch to master the low-level foundations of graphics engine. My next goal is to master **Vulkan**.
+I'm interested in how systems shape people's behavior — in games, in services,
+in organizations — and in designing those systems myself.
+I built a renderer and a math library from scratch to understand how the things
+I want to design actually work.
 
-グラフィックパイプラインを学びながら**OpenGL**でのレンダラー開発を完了し、現在はグラフィックスエンジンの基礎となる数学ライブラリを自作しています。次の目標は**Vulkan**の習得です。
+仕組みが人の行動をどう変えるかに関心があり、その仕組みを自分で設計することを目指しています。
+兵役中には、自分が企画したいものが実際にどう動いているのかを理解するため、
+レンダラーと数学ライブラリをゼロから実装しました。
 
 ---
 
@@ -39,7 +44,7 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
 | Category | Technologies |
 | --- | --- |
 | **Languages** | ![C++](https://img.shields.io/badge/C++17/20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white) |
-| **Graphics API** | ![OpenGL](https://img.shields.io/badge/OpenGL-Completed-success?style=flat-square&logo=opengl) ![Vulkan](https://img.shields.io/badge/Vulkan-Next_Goal-lightgrey?style=flat-square&logo=vulkan&logoColor=white)
+| **Graphics API** | ![OpenGL](https://img.shields.io/badge/OpenGL-Completed-success?style=flat-square&logo=opengl) |
 | **Tools & Libs** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Assimp](https://img.shields.io/badge/Assimp-Model_Loading-orange?style=flat-square) |
 
 ---
@@ -57,14 +62,13 @@ I have built a renderer using **OpenGL** and am currently developing a custom ma
 * **Tech:** C++, OpenGL, GLFW, GLAD, GLM.
 
 #### 2. [ShikaMath](https://github.com/SHIKA-gfx/ShikaMath) 
-> **High-Performance Math Library for Graphics**
-> グラフィックスエンジンのための自作C++数学ライブラリ
+> **Software Renderer & Math Library, built from scratch**
+> 制約の多い環境で、標準ライブラリだけで実装したソフトウェアレンダラー
 
-* **Goal:** Replacing `GLM` with my own SIMD-optimized library.
-* **Focus:**
-    * Deep understanding of Linear Algebra (Vector, Matrix, Quaternion).
-    * Optimization using **SIMD Intrinsics (AVX/SSE)**.
-    * Memory alignment and Cache efficiency.
+* **Context:** 兵役中、セキュリティ上の制約で画面出力ができない環境で開発。
+  「画面に映す」手段を諦め、ファイル出力という別の方法で結果を可視化しました。
+* **Implemented:** Vector / Matrix / Quaternion, rasterization, Z-buffer
+* **Write-up:** [韓国軍のPCで「ソフトウェアレンダリング」してみた](https://zenn.dev/shika_gfx/articles/shika-soft-rend)
 
 <table>
   <tr>
